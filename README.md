@@ -8,7 +8,9 @@
 * pymysql
 * mysqlclient
 * mysql5.7
-
+* Pillow
+* django_extensions
+* 
 ## 安装
 
 clone本项目之后,配置/tipsy_wiki/tipsy_wiki/settings.py里的数据库相关配置
