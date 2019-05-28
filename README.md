@@ -2,7 +2,8 @@
 
 ## 环境依赖
 
-* python3.6
+![](https://img.shields.io/badge/language-python3.6-green.svg)
+
 * django1.11
 * pymysql
 * mysqlclient
